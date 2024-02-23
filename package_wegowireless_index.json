@@ -12,7 +12,7 @@
           "architecture": "ESP32",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/WeGoWireless/boards/WeGoWireless-esp32-1.0.0.zip",
+          "url": "https://wegowireless.github.io/arduino-board-index/boards/WeGoWireless-esp32-1.0.0.zip",
           "archiveFileName": "wegowireless-esp32-1.0.0.zip",
           "checksum": "SHA-256:81D4F445F7790E25FB429D2D72853705A9D4C848EDCB6706ECAF77B7C92C8D92",
           "size": "192198",
