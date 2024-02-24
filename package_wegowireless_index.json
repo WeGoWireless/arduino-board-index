@@ -9,13 +9,13 @@
       [
         {
           "name": "WeGoWireless ESP32 Boards",
-          "architecture": "ESP32",
-          "version": "1.0.0",
+          "architecture": "esp32",
+          "version": "2.0.14",
           "category": "Contributed",
-          "url": "https://wegowireless.github.io/arduino-board-index/boards/wegowireless-esp32-1.0.0.zip",
-          "archiveFileName": "wegowireless-esp32-1.0.0.zip",
-          "checksum": "SHA-256:81D4F445F7790E25FB429D2D72853705A9D4C848EDCB6706ECAF77B7C92C8D92",
-          "size": "192198",
+          "url": "https://wegowireless.github.io/arduino-board-index/boards/wegowireless-esp32-2.0.14.zip",
+          "archiveFileName": "wegowireless-esp32-2.0.14.zip",
+          "checksum": "SHA-256:C6BBF1B7D158C100EA80BD00941B1C0D0B2A5810804330A3DFAF833C7486C889",
+          "size": "241019976",
           "boards": [
             {
               "name": "Indust-2.4"
